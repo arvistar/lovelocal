@@ -1,7 +1,7 @@
-# lovelocal
-intership
-R vaishnavi
-sahyadri colleage of engineering and management
-4SF20IS71
-colleage email: rvaishnavi.is20@sahyadri.edu.in
-personal email: arvivaishu@gmail.com
+# Internship Details
+
+- **Internship Name:** R Vaishnavi
+- **College:** Sahyadri College of Engineering and Management
+- **USN:** 4SF20IS71
+- **College Email:** rvaishnavi.is20@sahyadri.edu.in
+- **Personal Email:** arvivaishu@gmail.com
